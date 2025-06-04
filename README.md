@@ -14,6 +14,7 @@ Test Score Calculator program written in LC-3 that takes five user submitted tes
 
 
 Running of LC-3 program: user will be asked to submit their five scores and the program will then display maximum, minimum, average scores and letter grade equivalence on console
+Once displayed program will ask if user would like to restart.
 
 Grade Scale Used: (0 – 50 = F, 60 – 69 = D, 70 – 79 = C, 80 – 89 = B, 90 – 100 = A)
 
